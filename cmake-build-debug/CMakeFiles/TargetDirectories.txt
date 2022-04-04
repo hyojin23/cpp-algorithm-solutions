@@ -1,0 +1,3 @@
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section1_Code_Implementation_sum_of_M_multiple.dir
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/edit_cache.dir
