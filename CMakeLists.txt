@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section1_Code_Implementation_sum_of_M_multiple Section1_Code_Implementation/sum_of_M_multiple.cpp)
+add_executable(Section1_Code_Implementation_age_difference_age_difference Section1_Code_Implementation/age_difference/age_difference.cpp)
