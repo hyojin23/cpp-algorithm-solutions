@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    freopen("input.txt", "rt", stdin);
+    // freopen("input.txt", "rt", stdin);
     int res = 0, cnt = 0, i;
     char a[100];
     scanf("%s", &a);
