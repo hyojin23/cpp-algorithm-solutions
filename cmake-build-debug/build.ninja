@@ -41,37 +41,43 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_age_difference_age_difference
+# Object build statements for EXECUTABLE target Section1_Code_Implementation_Age_Calculation_Age_Calculation
 
 
 #############################################
-# Order-only phony target for Section1_Code_Implementation_age_difference_age_difference
+# Order-only phony target for Section1_Code_Implementation_Age_Calculation_Age_Calculation
 
-build cmake_object_order_depends_target_Section1_Code_Implementation_age_difference_age_difference: phony || CMakeFiles/Section1_Code_Implementation_age_difference_age_difference.dir
+build cmake_object_order_depends_target_Section1_Code_Implementation_Age_Calculation_Age_Calculation: phony || CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
 
-build CMakeFiles/Section1_Code_Implementation_age_difference_age_difference.dir/Section1_Code_Implementation/age_difference/age_difference.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_age_difference_age_difference_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/age_difference/age_difference.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_age_difference_age_difference
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_age_difference_age_difference.dir\Section1_Code_Implementation\age_difference\age_difference.cpp.obj.d
+build CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Age_Calculation/Age_Calculation.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Age_Calculation_Age_Calculation_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Age_Calculation/Age_Calculation.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Age_Calculation_Age_Calculation
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Age_Calculation\Age_Calculation.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_age_difference_age_difference.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_age_difference_age_difference.dir\Section1_Code_Implementation\age_difference
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Age_Calculation
+
+build CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Age_Calculation_Age_Calculation_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Age_Calculation_Age_Calculation
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Extract_Numbers_Only\Extract_Numbers_Only.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Extract_Numbers_Only
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_age_difference_age_difference
+# Link build statements for EXECUTABLE target Section1_Code_Implementation_Age_Calculation_Age_Calculation
 
 
 #############################################
-# Link the executable Section1_Code_Implementation_age_difference_age_difference.exe
+# Link the executable Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
 
-build Section1_Code_Implementation_age_difference_age_difference.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_age_difference_age_difference_Debug CMakeFiles/Section1_Code_Implementation_age_difference_age_difference.dir/Section1_Code_Implementation/age_difference/age_difference.cpp.obj
+build Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Age_Calculation_Age_Calculation_Debug CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Age_Calculation/Age_Calculation.cpp.obj CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_age_difference_age_difference.dir
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_age_difference_age_difference.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_age_difference_age_difference.dll.a
-  TARGET_PDB = Section1_Code_Implementation_age_difference_age_difference.exe.dbg
+  TARGET_FILE = Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
+  TARGET_IMPLIB = libSection1_Code_Implementation_Age_Calculation_Age_Calculation.dll.a
+  TARGET_PDB = Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe.dbg
 
 
 #############################################
@@ -99,7 +105,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_age_difference_age_difference: phony Section1_Code_Implementation_age_difference_age_difference.exe
+build Section1_Code_Implementation_Age_Calculation_Age_Calculation: phony Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +115,7 @@ build Section1_Code_Implementation_age_difference_age_difference: phony Section1
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_age_difference_age_difference.exe
+build all: phony Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
 
 # =============================================================================
 # Built-in targets
