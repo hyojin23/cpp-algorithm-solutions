@@ -41,43 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_Age_Calculation_Age_Calculation
+# Object build statements for EXECUTABLE target Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
 
 
 #############################################
-# Order-only phony target for Section1_Code_Implementation_Age_Calculation_Age_Calculation
+# Order-only phony target for Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
 
-build cmake_object_order_depends_target_Section1_Code_Implementation_Age_Calculation_Age_Calculation: phony || CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
+build cmake_object_order_depends_target_Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses: phony || CMakeFiles/Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir
 
-build CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Age_Calculation/Age_Calculation.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Age_Calculation_Age_Calculation_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Age_Calculation/Age_Calculation.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Age_Calculation_Age_Calculation
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Age_Calculation\Age_Calculation.cpp.obj.d
+build CMakeFiles/Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir/Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir\Section1_Code_Implementation\Correct_Parentheses\Correct_Parentheses.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Age_Calculation
-
-build CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Age_Calculation_Age_Calculation_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Age_Calculation_Age_Calculation
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Extract_Numbers_Only\Extract_Numbers_Only.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir\Section1_Code_Implementation\Extract_Numbers_Only
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir\Section1_Code_Implementation\Correct_Parentheses
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_Age_Calculation_Age_Calculation
+# Link build statements for EXECUTABLE target Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
 
 
 #############################################
-# Link the executable Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
+# Link the executable Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
 
-build Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Age_Calculation_Age_Calculation_Debug CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Age_Calculation/Age_Calculation.cpp.obj CMakeFiles/Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir/Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp.obj
+build Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses_Debug CMakeFiles/Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir/Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Age_Calculation_Age_Calculation.dir
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_Age_Calculation_Age_Calculation.dll.a
-  TARGET_PDB = Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe.dbg
+  TARGET_FILE = Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
+  TARGET_IMPLIB = libSection1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dll.a
+  TARGET_PDB = Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe.dbg
 
 
 #############################################
@@ -105,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_Age_Calculation_Age_Calculation: phony Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
+build Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses: phony Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
 
 # =============================================================================
 # Folder targets.
@@ -115,7 +109,7 @@ build Section1_Code_Implementation_Age_Calculation_Age_Calculation: phony Sectio
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_Age_Calculation_Age_Calculation.exe
+build all: phony Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
 
 # =============================================================================
 # Built-in targets

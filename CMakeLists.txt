@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section1_Code_Implementation_Extract_Numbers_Only_Extract_Numbers_Only Section1_Code_Implementation/Extract_Numbers_Only/Extract_Numbers_Only.cpp)
+add_executable(Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp)
