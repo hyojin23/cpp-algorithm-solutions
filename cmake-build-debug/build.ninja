@@ -40,39 +40,6 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
-# =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
-
-
-#############################################
-# Order-only phony target for Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
-
-build cmake_object_order_depends_target_Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses: phony || CMakeFiles/Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir
-
-build CMakeFiles/Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir/Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir\Section1_Code_Implementation\Correct_Parentheses\Correct_Parentheses.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir\Section1_Code_Implementation\Correct_Parentheses
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses
-
-
-#############################################
-# Link the executable Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
-
-build Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses_Debug CMakeFiles/Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir/Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.dll.a
-  TARGET_PDB = Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe.dbg
-
 
 #############################################
 # Utility command for edit_cache
@@ -83,6 +50,57 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section1_Code_Implementation_Every_Divisor_Every_Divisor
+
+
+#############################################
+# Order-only phony target for Section1_Code_Implementation_Every_Divisor_Every_Divisor
+
+build cmake_object_order_depends_target_Section1_Code_Implementation_Every_Divisor_Every_Divisor: phony || CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir
+
+build CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Every_Divisor/Every_Divisor.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Every_Divisor_Every_Divisor_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Every_Divisor/Every_Divisor.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Every_Divisor_Every_Divisor
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Every_Divisor\Every_Divisor.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Every_Divisor
+
+build CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Sum_of_Digits/Sum_of_Digits.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Every_Divisor_Every_Divisor_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Sum_of_Digits/Sum_of_Digits.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Every_Divisor_Every_Divisor
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Sum_of_Digits\Sum_of_Digits.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Sum_of_Digits
+
+build CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Total_Number_of_Numbers(small)/Total_Number_of_Numbers(small).cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Every_Divisor_Every_Divisor_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Total_Number_of_Numbers(small)/Total_Number_of_Numbers(small).cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Every_Divisor_Every_Divisor
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Total_Number_of_Numbers(small)\Total_Number_of_Numbers(small).cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Total_Number_of_Numbers(small)
+
+build CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Total_Number_of_Numbers(large)/Total_Number_of_Numbers(large).cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Every_Divisor_Every_Divisor_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Total_Number_of_Numbers(large)/Total_Number_of_Numbers(large).cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Every_Divisor_Every_Divisor
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Total_Number_of_Numbers(large)\Total_Number_of_Numbers(large).cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir\Section1_Code_Implementation\Total_Number_of_Numbers(large)
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section1_Code_Implementation_Every_Divisor_Every_Divisor
+
+
+#############################################
+# Link the executable Section1_Code_Implementation_Every_Divisor_Every_Divisor.exe
+
+build Section1_Code_Implementation_Every_Divisor_Every_Divisor.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Every_Divisor_Every_Divisor_Debug CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Every_Divisor/Every_Divisor.cpp.obj CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Sum_of_Digits/Sum_of_Digits.cpp.obj CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Total_Number_of_Numbers(small)/Total_Number_of_Numbers(small).cpp.obj CMakeFiles/Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir/Section1_Code_Implementation/Total_Number_of_Numbers(large)/Total_Number_of_Numbers(large).cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Every_Divisor_Every_Divisor.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section1_Code_Implementation_Every_Divisor_Every_Divisor.exe
+  TARGET_IMPLIB = libSection1_Code_Implementation_Every_Divisor_Every_Divisor.dll.a
+  TARGET_PDB = Section1_Code_Implementation_Every_Divisor_Every_Divisor.exe.dbg
 
 
 #############################################
@@ -99,7 +117,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses: phony Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
+build Section1_Code_Implementation_Every_Divisor_Every_Divisor: phony Section1_Code_Implementation_Every_Divisor_Every_Divisor.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +127,7 @@ build Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses: phon
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses.exe
+build all: phony Section1_Code_Implementation_Every_Divisor_Every_Divisor.exe
 
 # =============================================================================
 # Built-in targets

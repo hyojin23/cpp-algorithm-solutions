@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section1_Code_Implementation_Correct_Parentheses_Correct_Parentheses Section1_Code_Implementation/Correct_Parentheses/Correct_Parentheses.cpp)
+add_executable(Section1_Code_Implementation_Every_Divisor_Every_Divisor Section1_Code_Implementation/Every_Divisor/Every_Divisor.cpp Section1_Code_Implementation/Sum_of_Digits/Sum_of_Digits.cpp "Section1_Code_Implementation/Total_Number_of_Numbers(small)/Total_Number_of_Numbers(small).cpp" "Section1_Code_Implementation/Total_Number_of_Numbers(large)/Total_Number_of_Numbers(large).cpp")
