@@ -13,6 +13,9 @@ int main () {
         c++;
         d = d * 10;
     }
+    res = res + ((n - sum) * c);
+    printf("%d\n", res);
+
     return 0;
 }
 
