@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section1_Code_Implementation_Reversed_Prime_Number_Reversed_Prime_Number Section1_Code_Implementation/Reversed_Prime_Number/Reversed_Prime_Number.cpp)
+add_executable(Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise Section1_Code_Implementation/Inter_Floor_Noise/Inter_Floor_Noise.cpp)

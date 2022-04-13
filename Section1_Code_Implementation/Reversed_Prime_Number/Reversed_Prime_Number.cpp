@@ -12,6 +12,7 @@
 
 bool isPrime(int x) {
     int i;
+    if (x == 1) return false;
     for (i = 2; i < x; i++) {
         if (x % i == 0) {
             return false;
@@ -21,7 +22,7 @@ bool isPrime(int x) {
 }
 
 int main() {
-
+//    freopen("input.txt", "rt", stdin);
     int n, num, i, tmp;
     scanf("%d", &n);
     for (i = 0; i < n; i++) {

@@ -1,3 +1,3 @@
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section1_Code_Implementation_Reversed_Prime_Number_Reversed_Prime_Number.dir
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
