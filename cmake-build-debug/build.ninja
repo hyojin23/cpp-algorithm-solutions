@@ -40,6 +40,39 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+
+
+#############################################
+# Order-only phony target for Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+
+build cmake_object_order_depends_target_Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence: phony || CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
+
+build CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir/Section1_Code_Implementation/Partial_Increase_Sequence/Partial_Increase_Sequence.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Partial_Increase_Sequence/Partial_Increase_Sequence.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir\Section1_Code_Implementation\Partial_Increase_Sequence\Partial_Increase_Sequence.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir\Section1_Code_Implementation\Partial_Increase_Sequence
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+
+
+#############################################
+# Link the executable Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
+
+build Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence_Debug CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir/Section1_Code_Implementation/Partial_Increase_Sequence/Partial_Increase_Sequence.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
+  TARGET_IMPLIB = libSection1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dll.a
+  TARGET_PDB = Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -50,39 +83,6 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise
-
-
-#############################################
-# Order-only phony target for Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise
-
-build cmake_object_order_depends_target_Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise: phony || CMakeFiles/Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir
-
-build CMakeFiles/Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir/Section1_Code_Implementation/Inter_Floor_Noise/Inter_Floor_Noise.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Inter_Floor_Noise/Inter_Floor_Noise.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir\Section1_Code_Implementation\Inter_Floor_Noise\Inter_Floor_Noise.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir\Section1_Code_Implementation\Inter_Floor_Noise
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise
-
-
-#############################################
-# Link the executable Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.exe
-
-build Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise_Debug CMakeFiles/Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir/Section1_Code_Implementation/Inter_Floor_Noise/Inter_Floor_Noise.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.dll.a
-  TARGET_PDB = Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise: phony Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.exe
+build Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence: phony Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise: phony Se
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_Inter_Floor_Noise_Inter_Floor_Noise.exe
+build all: phony Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
 
 # =============================================================================
 # Built-in targets
