@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+# Object build statements for EXECUTABLE target Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
 
 
 #############################################
-# Order-only phony target for Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+# Order-only phony target for Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
 
-build cmake_object_order_depends_target_Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence: phony || CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
+build cmake_object_order_depends_target_Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial: phony || CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
 
-build CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir/Section1_Code_Implementation/Partial_Increase_Sequence/Partial_Increase_Sequence.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Partial_Increase_Sequence/Partial_Increase_Sequence.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir\Section1_Code_Implementation\Partial_Increase_Sequence\Partial_Increase_Sequence.cpp.obj.d
+build CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir/Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir\Section1_Code_Implementation\Expression_of_N_Factorial\Expression_of_N_Factorial.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir\Section1_Code_Implementation\Partial_Increase_Sequence
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir\Section1_Code_Implementation\Expression_of_N_Factorial
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence
+# Link build statements for EXECUTABLE target Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
 
 
 #############################################
-# Link the executable Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
+# Link the executable Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
 
-build Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence_Debug CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir/Section1_Code_Implementation/Partial_Increase_Sequence/Partial_Increase_Sequence.cpp.obj
+build Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial_Debug CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir/Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dll.a
-  TARGET_PDB = Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe.dbg
+  TARGET_FILE = Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
+  TARGET_IMPLIB = libSection1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dll.a
+  TARGET_PDB = Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence: phony Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
+build Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial: phony Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Se
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.exe
+build all: phony Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
 
 # =============================================================================
 # Built-in targets

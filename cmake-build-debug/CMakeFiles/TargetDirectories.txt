@@ -1,3 +1,3 @@
-C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section1_Code_Implementation_Partial_Increase_Sequence_Partial_Increase_Sequence.dir
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
