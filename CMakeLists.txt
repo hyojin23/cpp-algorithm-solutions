@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp)
+add_executable(Section1_Code_Implementation_Number_of_3_Number_of_3 "Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp")

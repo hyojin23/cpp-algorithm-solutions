@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
+# Object build statements for EXECUTABLE target Section1_Code_Implementation_Number_of_3_Number_of_3
 
 
 #############################################
-# Order-only phony target for Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
+# Order-only phony target for Section1_Code_Implementation_Number_of_3_Number_of_3
 
-build cmake_object_order_depends_target_Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial: phony || CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
+build cmake_object_order_depends_target_Section1_Code_Implementation_Number_of_3_Number_of_3: phony || CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir
 
-build CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir/Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir\Section1_Code_Implementation\Expression_of_N_Factorial\Expression_of_N_Factorial.cpp.obj.d
+build CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir/Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Number_of_3_Number_of_3_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Number_of_3_Number_of_3
+  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir\Section1_Code_Implementation\Number_of_3(small)\Number_of_3(small).cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir\Section1_Code_Implementation\Expression_of_N_Factorial
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir\Section1_Code_Implementation\Number_of_3(small)
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial
+# Link build statements for EXECUTABLE target Section1_Code_Implementation_Number_of_3_Number_of_3
 
 
 #############################################
-# Link the executable Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
+# Link the executable Section1_Code_Implementation_Number_of_3_Number_of_3.exe
 
-build Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial_Debug CMakeFiles/Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir/Section1_Code_Implementation/Expression_of_N_Factorial/Expression_of_N_Factorial.cpp.obj
+build Section1_Code_Implementation_Number_of_3_Number_of_3.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Number_of_3_Number_of_3_Debug CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir/Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dir
+  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.dll.a
-  TARGET_PDB = Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe.dbg
+  TARGET_FILE = Section1_Code_Implementation_Number_of_3_Number_of_3.exe
+  TARGET_IMPLIB = libSection1_Code_Implementation_Number_of_3_Number_of_3.dll.a
+  TARGET_PDB = Section1_Code_Implementation_Number_of_3_Number_of_3.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial: phony Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
+build Section1_Code_Implementation_Number_of_3_Number_of_3: phony Section1_Code_Implementation_Number_of_3_Number_of_3.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Fac
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_Expression_of_N_Factorial_Expression_of_N_Factorial.exe
+build all: phony Section1_Code_Implementation_Number_of_3_Number_of_3.exe
 
 # =============================================================================
 # Built-in targets
