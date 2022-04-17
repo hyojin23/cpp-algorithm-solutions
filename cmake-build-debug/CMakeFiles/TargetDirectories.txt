@@ -1,3 +1,3 @@
-C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section1_Code_Implementation_Number_of_3_Number_of_3
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
 
 
 #############################################
-# Order-only phony target for Section1_Code_Implementation_Number_of_3_Number_of_3
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
 
-build cmake_object_order_depends_target_Section1_Code_Implementation_Number_of_3_Number_of_3: phony || CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
 
-build CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir/Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp.obj: CXX_COMPILER__Section1_Code_Implementation_Number_of_3_Number_of_3_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp || cmake_object_order_depends_target_Section1_Code_Implementation_Number_of_3_Number_of_3
-  DEP_FILE = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir\Section1_Code_Implementation\Number_of_3(small)\Number_of_3(small).cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Bubble_Sort\Bubble_Sort.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir\Section1_Code_Implementation\Number_of_3(small)
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Bubble_Sort
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section1_Code_Implementation_Number_of_3_Number_of_3
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
 
 
 #############################################
-# Link the executable Section1_Code_Implementation_Number_of_3_Number_of_3.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
 
-build Section1_Code_Implementation_Number_of_3_Number_of_3.exe: CXX_EXECUTABLE_LINKER__Section1_Code_Implementation_Number_of_3_Number_of_3_Debug CMakeFiles/Section1_Code_Implementation_Number_of_3_Number_of_3.dir/Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section1_Code_Implementation_Number_of_3_Number_of_3.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section1_Code_Implementation_Number_of_3_Number_of_3.exe
-  TARGET_IMPLIB = libSection1_Code_Implementation_Number_of_3_Number_of_3.dll.a
-  TARGET_PDB = Section1_Code_Implementation_Number_of_3_Number_of_3.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section1_Code_Implementation_Number_of_3_Number_of_3: phony Section1_Code_Implementation_Number_of_3_Number_of_3.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section1_Code_Implementation_Number_of_3_Number_of_3: phony Section1_Code_
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section1_Code_Implementation_Number_of_3_Number_of_3.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
 
 # =============================================================================
 # Built-in targets

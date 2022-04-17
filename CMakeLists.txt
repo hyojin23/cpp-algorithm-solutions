@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section1_Code_Implementation_Number_of_3_Number_of_3 "Section1_Code_Implementation/Number_of_3(small)/Number_of_3(small).cpp")
+add_executable(Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp)
