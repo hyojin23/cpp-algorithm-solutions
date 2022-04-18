@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
 
 
 #############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
 
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Bubble_Sort\Bubble_Sort.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir/b8afee54e062ca50b484a6264277a449/Least_Recently_Used.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Least_Recently_Used/Least_Recently_Used.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir\b8afee54e062ca50b484a6264277a449\Least_Recently_Used.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Bubble_Sort
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir\b8afee54e062ca50b484a6264277a449
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
 
 
 #############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Bubble_Sort/Bubble_Sort.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir/b8afee54e062ca50b484a6264277a449/Least_Recently_Used.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sor
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Bubble_Sort_Bubble_Sort.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
 
 # =============================================================================
 # Built-in targets
