@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
 
 
 #############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
 
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir/b8afee54e062ca50b484a6264277a449/Least_Recently_Used.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Least_Recently_Used/Least_Recently_Used.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir\b8afee54e062ca50b484a6264277a449\Least_Recently_Used.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/333c47042165d6362912f52c3e8534ae/Intersection_Set/Intersection_Set.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Intersection_Set/Intersection_Set.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\333c47042165d6362912f52c3e8534ae\Intersection_Set\Intersection_Set.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir\b8afee54e062ca50b484a6264277a449
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\333c47042165d6362912f52c3e8534ae\Intersection_Set
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
 
 
 #############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir/b8afee54e062ca50b484a6264277a449/Least_Recently_Used.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/333c47042165d6362912f52c3e8534ae/Intersection_Set/Intersection_Set.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Le
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
 
 # =============================================================================
 # Built-in targets

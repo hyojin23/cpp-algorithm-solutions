@@ -1,3 +1,3 @@
-C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Least_Recently_Used_Least_Recently_Used.dir
+C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
