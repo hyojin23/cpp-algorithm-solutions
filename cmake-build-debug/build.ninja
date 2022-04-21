@@ -55,6 +55,12 @@ build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersectio
   OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
   OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\333c47042165d6362912f52c3e8534ae\Intersection_Set
 
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/a5e407d45b0bb6d7eacac689916c6ebb/Sum_of__Continuous_Natural_Numbers.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Sum_of_$ Continuous_Natural_Numbers/Sum_of_$ Continuous_Natural_Numbers.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\a5e407d45b0bb6d7eacac689916c6ebb\Sum_of__Continuous_Natural_Numbers.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\a5e407d45b0bb6d7eacac689916c6ebb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
@@ -63,7 +69,7 @@ build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersectio
 #############################################
 # Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/333c47042165d6362912f52c3e8534ae/Intersection_Set/Intersection_Set.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/333c47042165d6362912f52c3e8534ae/Intersection_Set/Intersection_Set.cpp.obj CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/a5e407d45b0bb6d7eacac689916c6ebb/Sum_of__Continuous_Natural_Numbers.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
