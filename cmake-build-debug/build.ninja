@@ -41,43 +41,43 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
 
 
 #############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
 
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/333c47042165d6362912f52c3e8534ae/Intersection_Set/Intersection_Set.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Intersection_Set/Intersection_Set.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\333c47042165d6362912f52c3e8534ae\Intersection_Set\Intersection_Set.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/efa8d76563c7d6fd0babb5a9c7c71b4d/Sum_of_Successive_Numbers.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Sum_of_Successive_Numbers/Sum_of_Successive_Numbers.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\efa8d76563c7d6fd0babb5a9c7c71b4d\Sum_of_Successive_Numbers.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\333c47042165d6362912f52c3e8534ae\Intersection_Set
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\efa8d76563c7d6fd0babb5a9c7c71b4d
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/a5e407d45b0bb6d7eacac689916c6ebb/Sum_of__Continuous_Natural_Numbers.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Sum_of_$ Continuous_Natural_Numbers/Sum_of_$ Continuous_Natural_Numbers.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\a5e407d45b0bb6d7eacac689916c6ebb\Sum_of__Continuous_Natural_Numbers.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/0b6121ba492ed3d1ba2d91be138b202a/Binary_Search.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Binary_Search/Binary_Search.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\0b6121ba492ed3d1ba2d91be138b202a\Binary_Search.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir\a5e407d45b0bb6d7eacac689916c6ebb
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\0b6121ba492ed3d1ba2d91be138b202a
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
 
 
 #############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/333c47042165d6362912f52c3e8534ae/Intersection_Set/Intersection_Set.cpp.obj CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir/a5e407d45b0bb6d7eacac689916c6ebb/Sum_of__Continuous_Natural_Numbers.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/efa8d76563c7d6fd0babb5a9c7c71b4d/Sum_of_Successive_Numbers.cpp.obj CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/0b6121ba492ed3d1ba2d91be138b202a/Binary_Search.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe.dbg
 
 
 #############################################
@@ -105,7 +105,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
 
 # =============================================================================
 # Folder targets.
@@ -115,7 +115,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Inter
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Intersection_Set_Intersection_Set.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
 
 # =============================================================================
 # Built-in targets
