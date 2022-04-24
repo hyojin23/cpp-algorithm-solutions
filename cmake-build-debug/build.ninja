@@ -41,43 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video
 
 
 #############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video
 
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/efa8d76563c7d6fd0babb5a9c7c71b4d/Sum_of_Successive_Numbers.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Sum_of_Successive_Numbers/Sum_of_Successive_Numbers.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\efa8d76563c7d6fd0babb5a9c7c71b4d\Sum_of_Successive_Numbers.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Music_Video/Music_Video.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Music_Video/Music_Video.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Music_Video\Music_Video.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\efa8d76563c7d6fd0babb5a9c7c71b4d
-
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/0b6121ba492ed3d1ba2d91be138b202a/Binary_Search.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Binary_Search/Binary_Search.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\0b6121ba492ed3d1ba2d91be138b202a\Binary_Search.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir\0b6121ba492ed3d1ba2d91be138b202a
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Music_Video
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video
 
 
 #############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/efa8d76563c7d6fd0babb5a9c7c71b4d/Sum_of_Successive_Numbers.cpp.obj CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir/0b6121ba492ed3d1ba2d91be138b202a/Binary_Search.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Music_Video/Music_Video.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.exe.dbg
 
 
 #############################################
@@ -105,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.exe
 
 # =============================================================================
 # Folder targets.
@@ -115,7 +109,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numb
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Sum_of_Successive_Numbers_Sum_of_Successive_Numbers.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Music_Video_Music_Video.exe
 
 # =============================================================================
 # Built-in targets
