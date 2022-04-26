@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
 
 
 #############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
 
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir/333c47042165d6362912f52c3e8534ae/Deciding_on_Stable/Deciding_on_Stable.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Deciding_on_Stable/Deciding_on_Stable.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir\333c47042165d6362912f52c3e8534ae\Deciding_on_Stable\Deciding_on_Stable.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir/333c47042165d6362912f52c3e8534ae/Saving_Princess/Saving_Princess.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Saving_Princess/Saving_Princess.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir\333c47042165d6362912f52c3e8534ae\Saving_Princess\Saving_Princess.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir\333c47042165d6362912f52c3e8534ae\Deciding_on_Stable
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir\333c47042165d6362912f52c3e8534ae\Saving_Princess
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
 
 
 #############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir/333c47042165d6362912f52c3e8534ae/Deciding_on_Stable/Deciding_on_Stable.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir/333c47042165d6362912f52c3e8534ae/Saving_Princess/Saving_Princess.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Dec
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Deciding_on_Stable_Deciding_on_Stable.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
 
 # =============================================================================
 # Built-in targets
