@@ -40,50 +40,6 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
-# =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
-
-
-#############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
-
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir
-
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir/333c47042165d6362912f52c3e8534ae/Saving_Princess/Saving_Princess.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Saving_Princess/Saving_Princess.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir\333c47042165d6362912f52c3e8534ae\Saving_Princess\Saving_Princess.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir\333c47042165d6362912f52c3e8534ae\Saving_Princess
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess
-
-
-#############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
-
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir/333c47042165d6362912f52c3e8534ae/Saving_Princess/Saving_Princess.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe.dbg
-
-
-#############################################
-# Utility command for edit_cache
-
-build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\donny\CLionProjects\CppCotePractice\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
-  DESC = No interactive CMake dialog available...
-  restat = 1
-
-build edit_cache: phony CMakeFiles/edit_cache.util
-
 
 #############################################
 # Utility command for rebuild_cache
@@ -97,9 +53,53 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking
+
+
+#############################################
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking
+
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir
+
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Multitasking/Multitasking.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Multitasking/Multitasking.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Multitasking\Multitasking.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Multitasking
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking
+
+
+#############################################
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.exe
+
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Multitasking/Multitasking.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D C:\Users\donny\CLionProjects\CppCotePractice\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Saving_Princess_Saving_Princess.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking.exe
 
 # =============================================================================
 # Built-in targets
