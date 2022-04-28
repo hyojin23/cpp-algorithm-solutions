@@ -12,17 +12,9 @@
 # =============================================================================
 
 #############################################
-# Rule for running custom commands.
-
-rule CUSTOM_COMMAND
-  command = $COMMAND
-  description = $DESC
-
-
-#############################################
 # Rule for compiling CXX files.
 
-rule CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking_Debug
+rule CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -32,10 +24,18 @@ rule CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitask
 #############################################
 # Rule for linking CXX executable.
 
-rule CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Multitasking_Multitasking_Debug
+rule CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small_Debug
   command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
+
+
+#############################################
+# Rule for running custom commands.
+
+rule CUSTOM_COMMAND
+  command = $COMMAND
+  description = $DESC
 
 
 #############################################
