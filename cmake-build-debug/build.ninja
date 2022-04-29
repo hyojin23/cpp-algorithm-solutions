@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small
+# Object build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service
 
 
 #############################################
-# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small
+# Order-only phony target for Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service
 
-build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir
+build cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service: phony || CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir
 
-build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir/f0752ec15539373f7b38b0f1cf4341b5/Choosing_Territory_small.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Choosing_Territory_small/Choosing_Territory_small.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small
-  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir\f0752ec15539373f7b38b0f1cf4341b5\Choosing_Territory_small.cpp.obj.d
+build CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Train_Service/Train_Service.cpp.obj: CXX_COMPILER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Train_Service/Train_Service.cpp || cmake_object_order_depends_target_Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service
+  DEP_FILE = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Train_Service\Train_Service.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir\f0752ec15539373f7b38b0f1cf4341b5
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack\Train_Service
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small
+# Link build statements for EXECUTABLE target Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service
 
 
 #############################################
-# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.exe
+# Link the executable Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.exe
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir/f0752ec15539373f7b38b0f1cf4341b5/Choosing_Territory_small.cpp.obj
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.exe: CXX_EXECUTABLE_LINKER__Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service_Debug CMakeFiles/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir/Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Train_Service/Train_Service.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dir
+  OBJECT_DIR = CMakeFiles\Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.exe
-  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.dll.a
-  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.exe.dbg
+  TARGET_FILE = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.exe
+  TARGET_IMPLIB = libSection2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.dll.a
+  TARGET_PDB = Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.exe
+build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_sma
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Choosing_Territory_small_Choosing_Territory_small.exe
+build all: phony Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service.exe
 
 # =============================================================================
 # Built-in targets
