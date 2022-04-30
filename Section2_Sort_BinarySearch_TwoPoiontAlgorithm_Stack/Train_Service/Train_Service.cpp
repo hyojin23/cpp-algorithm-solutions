@@ -1,40 +1,33 @@
 #include <cstdio>
-#include <vector>
 #include <stack>
+#include <vector>
 
 using namespace std;
 
 int main() {
 //    freopen("input.txt", "rt", stdin);
-    int n, i, j, k, pos = 0, tmp;
-    bool noOut;
     stack<int> s;
+    int i, j = 1, n, m, tmp;
     scanf("%d", &n);
-    vector<int> a(n);
-    for (i = 0; i < n; i++) {
-        scanf("%d", &a[i]);
-    }
-    for (i = 0; i < n; i++) {
-        noOut = false;
-        s.push(a[i]);
-        pos++;
-        printf("P");
-        tmp = s.size();
-        for (j = 0; j < tmp; j++) {
-            for (k = pos; k < n; k++) {
-                if (a[k] < s.top()) {
-                    noOut = true;
-                    break;
-                }
-            }
-            if (noOut)
-                break;
-            else {
+    vector<char> str;
+    for (i = 1; i <= n; i++) {
+        scanf("%d", &m);
+        s.push(m);
+        str.push_back('P');
+        while (true) {
+            if (s.empty()) break;
+            if (s.top() == j) {
                 s.pop();
-                printf("O");
-            }
+                str.push_back('O');
+                j++;
+            } else
+                break;
         }
     }
+    if (!s.empty())
+        printf("impossible\n");
+    else
+        for (i = 0; i < str.size(); i++)
+            printf("%c", str[i]);
     return 0;
 }
-
