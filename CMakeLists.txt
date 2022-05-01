@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack_Train_Service_Train_Service Section2_Sort_BinarySearch_TwoPoiontAlgorithm_Stack/Train_Service/Train_Service.cpp)
+add_executable(Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS Section3_Recursion_DFS_BFS/Binary_Tree_DFS/Binary_Tree_DFS.cpp)
