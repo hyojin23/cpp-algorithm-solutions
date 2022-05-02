@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS Section3_Recursion_DFS_BFS/Binary_Tree_DFS/Binary_Tree_DFS.cpp)
+add_executable(Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp)

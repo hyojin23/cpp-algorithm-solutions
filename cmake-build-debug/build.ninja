@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
 
 
 #############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS
+# Order-only phony target for Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
 
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir
 
-build CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir/Section3_Recursion_DFS_BFS/Binary_Tree_DFS/Binary_Tree_DFS.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Binary_Tree_DFS/Binary_Tree_DFS.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir\Section3_Recursion_DFS_BFS\Binary_Tree_DFS\Binary_Tree_DFS.cpp.obj.d
+build CMakeFiles/Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir/Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir\Section3_Recursion_DFS_BFS\Subset_of_Equal_Sums\Subset_of_Equal_Sums.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir\Section3_Recursion_DFS_BFS\Binary_Tree_DFS
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir\Section3_Recursion_DFS_BFS\Subset_of_Equal_Sums
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
 
 
 #############################################
-# Link the executable Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.exe
+# Link the executable Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
 
-build Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir/Section3_Recursion_DFS_BFS/Binary_Tree_DFS/Binary_Tree_DFS.cpp.obj
+build Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir/Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dir
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.exe.dbg
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS: phony Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.exe
+build Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums: phony Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS: phony Section3
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Binary_Tree_DFS_Binary_Tree_DFS.exe
+build all: phony Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
 
 # =============================================================================
 # Built-in targets
