@@ -40,39 +40,6 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
-# =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
-
-
-#############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
-
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir
-
-build CMakeFiles/Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir/Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir\Section3_Recursion_DFS_BFS\Subset_of_Equal_Sums\Subset_of_Equal_Sums.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir\Section3_Recursion_DFS_BFS\Subset_of_Equal_Sums
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums
-
-
-#############################################
-# Link the executable Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
-
-build Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir/Section3_Recursion_DFS_BFS/Subset_of_Equal_Sums/Subset_of_Equal_Sums.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe.dbg
-
 
 #############################################
 # Utility command for edit_cache
@@ -83,6 +50,39 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
+
+
+#############################################
+# Order-only phony target for Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
+
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir
+
+build CMakeFiles/Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir/Section3_Recursion_DFS_BFS/Merge_Sort/Merge_Sort.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Merge_Sort/Merge_Sort.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir\Section3_Recursion_DFS_BFS\Merge_Sort\Merge_Sort.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir\Section3_Recursion_DFS_BFS\Merge_Sort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
+
+
+#############################################
+# Link the executable Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
+
+build Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir/Section3_Recursion_DFS_BFS/Merge_Sort/Merge_Sort.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums: phony Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
+build Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort: phony Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums: phon
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Subset_of_Equal_Sums_Subset_of_Equal_Sums.exe
+build all: phony Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
 
 # =============================================================================
 # Built-in targets
