@@ -40,6 +40,39 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation
+
+
+#############################################
+# Order-only phony target for Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation
+
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir
+
+build CMakeFiles/Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir/Section3_Recursion_DFS_BFS/Path_Navigation/Path_Navigation.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Path_Navigation/Path_Navigation.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir\Section3_Recursion_DFS_BFS\Path_Navigation\Path_Navigation.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir\Section3_Recursion_DFS_BFS\Path_Navigation
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation
+
+
+#############################################
+# Link the executable Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.exe
+
+build Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir/Section3_Recursion_DFS_BFS/Path_Navigation/Path_Navigation.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -50,39 +83,6 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
-
-
-#############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
-
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir
-
-build CMakeFiles/Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir/Section3_Recursion_DFS_BFS/Merge_Sort/Merge_Sort.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Merge_Sort/Merge_Sort.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir\Section3_Recursion_DFS_BFS\Merge_Sort\Merge_Sort.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir\Section3_Recursion_DFS_BFS\Merge_Sort
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort
-
-
-#############################################
-# Link the executable Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
-
-build Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir/Section3_Recursion_DFS_BFS/Merge_Sort/Merge_Sort.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort: phony Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
+build Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation: phony Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort: phony Section3_Recursion
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Merge_Sort_Merge_Sort.exe
+build all: phony Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation.exe
 
 # =============================================================================
 # Built-in targets
