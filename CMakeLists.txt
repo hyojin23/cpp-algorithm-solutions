@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section3_Recursion_DFS_BFS_Path_Navigation_Path_Navigation Section3_Recursion_DFS_BFS/Path_Navigation/Path_Navigation.cpp)
+add_executable(Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost Section3_Recursion_DFS_BFS/Minimum_Cost_Adjacent_Matrix/Minimum_Cost_Adjacent_Matrix.cpp)
