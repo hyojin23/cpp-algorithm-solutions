@@ -40,39 +40,6 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
-# =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost
-
-
-#############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost
-
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir
-
-build CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir/Section3_Recursion_DFS_BFS/Minimum_Cost/Minimum_Cost.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Minimum_Cost/Minimum_Cost.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir\Section3_Recursion_DFS_BFS\Minimum_Cost\Minimum_Cost.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir\Section3_Recursion_DFS_BFS\Minimum_Cost
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost
-
-
-#############################################
-# Link the executable Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.exe
-
-build Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir/Section3_Recursion_DFS_BFS/Minimum_Cost/Minimum_Cost.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.exe.dbg
-
 
 #############################################
 # Utility command for edit_cache
@@ -83,6 +50,39 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+
+
+#############################################
+# Order-only phony target for Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir
+
+build CMakeFiles/Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir/Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir\Section3_Recursion_DFS_BFS\Graph_Shortest_Distance\Graph_Shortest_Distance.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir\Section3_Recursion_DFS_BFS\Graph_Shortest_Distance
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+
+
+#############################################
+# Link the executable Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
+
+build Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir/Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost: phony Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.exe
+build Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance: phony Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost: phony Section3_Recur
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Minimum_Cost_Minimum_Cost.exe
+build all: phony Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
 
 # =============================================================================
 # Built-in targets
