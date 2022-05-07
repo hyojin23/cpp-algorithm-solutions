@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp)
+add_executable(Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess Section3_Recursion_DFS_BFS/Saving_the_Princess/Saving_the_Princess.cpp)

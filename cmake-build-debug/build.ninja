@@ -52,37 +52,37 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
 build edit_cache: phony CMakeFiles/edit_cache.util
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess
 
 
 #############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+# Order-only phony target for Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess
 
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir
 
-build CMakeFiles/Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir/Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir\Section3_Recursion_DFS_BFS\Graph_Shortest_Distance\Graph_Shortest_Distance.cpp.obj.d
+build CMakeFiles/Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir/Section3_Recursion_DFS_BFS/Saving_the_Princess/Saving_the_Princess.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Saving_the_Princess/Saving_the_Princess.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir\Section3_Recursion_DFS_BFS\Saving_the_Princess\Saving_the_Princess.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir\Section3_Recursion_DFS_BFS\Graph_Shortest_Distance
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir\Section3_Recursion_DFS_BFS\Saving_the_Princess
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess
 
 
 #############################################
-# Link the executable Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
+# Link the executable Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.exe
 
-build Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir/Section3_Recursion_DFS_BFS/Graph_Shortest_Distance/Graph_Shortest_Distance.cpp.obj
+build Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir/Section3_Recursion_DFS_BFS/Saving_the_Princess/Saving_the_Princess.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dir
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe.dbg
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance: phony Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
+build Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess: phony Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Graph_Shortest_Distance_Graph_Shortest_Distance.exe
+build all: phony Section3_Recursion_DFS_BFS_Saving_the_Princess_Saving_the_Princess.exe
 
 # =============================================================================
 # Built-in targets
