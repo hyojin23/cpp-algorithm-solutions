@@ -52,37 +52,37 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
 build edit_cache: phony CMakeFiles/edit_cache.util
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
 
 
 #############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue
+# Order-only phony target for Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
 
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir
 
-build CMakeFiles/Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir/Section3_Recursion_DFS_BFS/Maximum_Hip_Priority_Queue/Maximum_Hip_Priority_Queue.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Maximum_Hip_Priority_Queue/Maximum_Hip_Priority_Queue.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir\Section3_Recursion_DFS_BFS\Maximum_Hip_Priority_Queue\Maximum_Hip_Priority_Queue.cpp.obj.d
+build CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir/37f2895c2517bacf82d27b443c81c210/Minimum_Heap_Priority_Queue.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Minimum_Heap_Priority_Queue/Minimum_Heap_Priority_Queue.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir\37f2895c2517bacf82d27b443c81c210\Minimum_Heap_Priority_Queue.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir\Section3_Recursion_DFS_BFS\Maximum_Hip_Priority_Queue
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir\37f2895c2517bacf82d27b443c81c210
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
 
 
 #############################################
-# Link the executable Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.exe
+# Link the executable Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
 
-build Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir/Section3_Recursion_DFS_BFS/Maximum_Hip_Priority_Queue/Maximum_Hip_Priority_Queue.cpp.obj
+build Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir/37f2895c2517bacf82d27b443c81c210/Minimum_Heap_Priority_Queue.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dir
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.exe.dbg
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue: phony Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.exe
+build Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue: phony Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Maximum_Hip_Priority_Queue_Maximum_Hip_Priority_Queue.exe
+build all: phony Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
 
 # =============================================================================
 # Built-in targets
