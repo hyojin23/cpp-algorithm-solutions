@@ -40,6 +40,39 @@ include CMakeFiles/rules.ninja
 # Logical path to working directory; prefix for absolute paths.
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+
+
+#############################################
+# Order-only phony target for Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+
+build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir
+
+build CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir/Section3_Recursion_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir\Section3_Recursion_DFS_BFS\Binary_Coefficient\Binary_Coefficient.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir\Section3_Recursion_DFS_BFS\Binary_Coefficient
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+
+
+#############################################
+# Link the executable Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
+
+build Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir/Section3_Recursion_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
+  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dll.a
+  TARGET_PDB = Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -50,39 +83,6 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
-
-
-#############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
-
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir
-
-build CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir/37f2895c2517bacf82d27b443c81c210/Minimum_Heap_Priority_Queue.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Minimum_Heap_Priority_Queue/Minimum_Heap_Priority_Queue.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir\37f2895c2517bacf82d27b443c81c210\Minimum_Heap_Priority_Queue.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir\37f2895c2517bacf82d27b443c81c210
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue
-
-
-#############################################
-# Link the executable Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
-
-build Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir/37f2895c2517bacf82d27b443c81c210/Minimum_Heap_Priority_Queue.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue: phony Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
+build Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient: phony Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priori
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Minimum_Heap_Priority_Queue_Minimum_Heap_Priority_Queue.exe
+build all: phony Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
 
 # =============================================================================
 # Built-in targets
