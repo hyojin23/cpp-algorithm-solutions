@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+# Object build statements for EXECUTABLE target Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend
 
 
 #############################################
-# Order-only phony target for Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+# Order-only phony target for Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend
 
-build cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient: phony || CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir
+build cmake_object_order_depends_target_Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend: phony || CMakeFiles/Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir
 
-build CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir/Section3_Recursion_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp.obj: CXX_COMPILER__Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section3_Recursion_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp || cmake_object_order_depends_target_Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
-  DEP_FILE = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir\Section3_Recursion_DFS_BFS\Binary_Coefficient\Binary_Coefficient.cpp.obj.d
+build CMakeFiles/Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir/Section4_Graph_DFS_BFS/Is_It_a_Friend/Is_It_a_Friend.cpp.obj: CXX_COMPILER__Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section4_Graph_DFS_BFS/Is_It_a_Friend/Is_It_a_Friend.cpp || cmake_object_order_depends_target_Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend
+  DEP_FILE = CMakeFiles\Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir\Section4_Graph_DFS_BFS\Is_It_a_Friend\Is_It_a_Friend.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir\Section3_Recursion_DFS_BFS\Binary_Coefficient
+  OBJECT_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir\Section4_Graph_DFS_BFS\Is_It_a_Friend
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient
+# Link build statements for EXECUTABLE target Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend
 
 
 #############################################
-# Link the executable Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
+# Link the executable Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.exe
 
-build Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe: CXX_EXECUTABLE_LINKER__Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient_Debug CMakeFiles/Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir/Section3_Recursion_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp.obj
+build Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.exe: CXX_EXECUTABLE_LINKER__Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend_Debug CMakeFiles/Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir/Section4_Graph_DFS_BFS/Is_It_a_Friend/Is_It_a_Friend.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dir
+  OBJECT_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
-  TARGET_IMPLIB = libSection3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.dll.a
-  TARGET_PDB = Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe.dbg
+  TARGET_FILE = Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.exe
+  TARGET_IMPLIB = libSection4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.dll.a
+  TARGET_PDB = Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient: phony Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
+build Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend: phony Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient: phony Se
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient.exe
+build all: phony Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend.exe
 
 # =============================================================================
 # Built-in targets

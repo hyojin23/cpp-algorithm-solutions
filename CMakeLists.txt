@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section3_Recursion_DFS_BFS_Binary_Coefficient_Binary_Coefficient Section4_Graph_DFS_BFS/Binary_Coefficient/Binary_Coefficient.cpp)
+add_executable(Section4_Graph_DFS_BFS_Is_It_a_Friend_Is_It_a_Friend Section4_Graph_DFS_BFS/Is_It_a_Friend/Is_It_a_Friend.cpp)
