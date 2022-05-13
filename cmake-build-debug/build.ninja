@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Section4_Graph_DFS_BFS_Wonderland_Wonderland
+# Object build statements for EXECUTABLE target Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue
 
 
 #############################################
-# Order-only phony target for Section4_Graph_DFS_BFS_Wonderland_Wonderland
+# Order-only phony target for Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue
 
-build cmake_object_order_depends_target_Section4_Graph_DFS_BFS_Wonderland_Wonderland: phony || CMakeFiles/Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir
+build cmake_object_order_depends_target_Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue: phony || CMakeFiles/Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir
 
-build CMakeFiles/Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir/Section4_Graph_DFS_BFS/Wonderland/Wonderland.cpp.obj: CXX_COMPILER__Section4_Graph_DFS_BFS_Wonderland_Wonderland_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section4_Graph_DFS_BFS/Wonderland/Wonderland.cpp || cmake_object_order_depends_target_Section4_Graph_DFS_BFS_Wonderland_Wonderland
-  DEP_FILE = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir\Section4_Graph_DFS_BFS\Wonderland\Wonderland.cpp.obj.d
+build CMakeFiles/Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir/Section4_Graph_DFS_BFS/Wonderland_Priority_Queue/Wonderland_Priority_Queue.cpp.obj: CXX_COMPILER__Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue_Debug C$:/Users/donny/CLionProjects/CppCotePractice/Section4_Graph_DFS_BFS/Wonderland_Priority_Queue/Wonderland_Priority_Queue.cpp || cmake_object_order_depends_target_Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue
+  DEP_FILE = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir\Section4_Graph_DFS_BFS\Wonderland_Priority_Queue\Wonderland_Priority_Queue.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir
-  OBJECT_FILE_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir\Section4_Graph_DFS_BFS\Wonderland
+  OBJECT_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir\Section4_Graph_DFS_BFS\Wonderland_Priority_Queue
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Section4_Graph_DFS_BFS_Wonderland_Wonderland
+# Link build statements for EXECUTABLE target Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue
 
 
 #############################################
-# Link the executable Section4_Graph_DFS_BFS_Wonderland_Wonderland.exe
+# Link the executable Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.exe
 
-build Section4_Graph_DFS_BFS_Wonderland_Wonderland.exe: CXX_EXECUTABLE_LINKER__Section4_Graph_DFS_BFS_Wonderland_Wonderland_Debug CMakeFiles/Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir/Section4_Graph_DFS_BFS/Wonderland/Wonderland.cpp.obj
+build Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.exe: CXX_EXECUTABLE_LINKER__Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue_Debug CMakeFiles/Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir/Section4_Graph_DFS_BFS/Wonderland_Priority_Queue/Wonderland_Priority_Queue.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Wonderland.dir
+  OBJECT_DIR = CMakeFiles\Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Section4_Graph_DFS_BFS_Wonderland_Wonderland.exe
-  TARGET_IMPLIB = libSection4_Graph_DFS_BFS_Wonderland_Wonderland.dll.a
-  TARGET_PDB = Section4_Graph_DFS_BFS_Wonderland_Wonderland.exe.dbg
+  TARGET_FILE = Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.exe
+  TARGET_IMPLIB = libSection4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.dll.a
+  TARGET_PDB = Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Section4_Graph_DFS_BFS_Wonderland_Wonderland: phony Section4_Graph_DFS_BFS_Wonderland_Wonderland.exe
+build Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue: phony Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Section4_Graph_DFS_BFS_Wonderland_Wonderland: phony Section4_Graph_DFS_BFS
 #############################################
 # Folder: C:/Users/donny/CLionProjects/CppCotePractice/cmake-build-debug
 
-build all: phony Section4_Graph_DFS_BFS_Wonderland_Wonderland.exe
+build all: phony Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue.exe
 
 # =============================================================================
 # Built-in targets
