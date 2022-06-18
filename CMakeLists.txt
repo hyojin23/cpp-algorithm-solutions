@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(Section4_Graph_DFS_BFS_Wonderland_Priority_Queue_Wonderland_Priority_Queue Section4_Graph_DFS_BFS/Wonderland_Priority_Queue/Wonderland_Priority_Queue.cpp)
+add_executable(Section4_Graph_DFS_BFS_Dijkstra_Dijkstra Section4_Graph_DFS_BFS/Dijkstra/Dijkstra.cpp)
